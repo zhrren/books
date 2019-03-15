@@ -65,6 +65,9 @@ https://www.jianshu.com/p/f6b994fdb9fb
 **flutter入门之常见的flutter问题汇总**
 https://juejin.im/entry/5c8216675188257e3c56a2e5
 
+**2亿用户背后的Flutter应用框架Fish Redux**
+https://www.jianshu.com/p/c48bddd363d4
+
 ## Packages
 
 **dio**
@@ -74,11 +77,6 @@ https://pub.dartlang.org/packages/dio
 **bloc**
 https://felangel.github.io/bloc/#/
 > a predictable state management library for Dart.
-
-## Fish Redux
-
-**2亿用户背后的Flutter应用框架Fish Redux**
-https://www.jianshu.com/p/c48bddd363d4
 
 # git
 
