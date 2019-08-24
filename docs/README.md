@@ -1,9 +1,13 @@
-# JavaScript
+# H5
 
-## Learning
+> Learning
 
 **Redux 中文文档**
 https://www.redux.org.cn/
+
+**JS 函数式编程指南**
+https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
+
 
 ## Vue
 
@@ -13,10 +17,90 @@ https://vuejs.org/
 **Vuex**
 https://vuex.vuejs.org/zh/
 
+## Typescript
+
+> Links
+
+**TypeScript 中文**
+https://www.tslang.cn/
+
+**TypeScript Handbook（中文版）**
+https://zhongsp.gitbooks.io/typescript-handbook/content/
+
+**vue-property-decorator 文档**
+https://github.com/kaorun343/vue-property-decorator
+
+**vue-class-component**
+https://github.com/vuejs/vue-class-component
+
+> Learning
+
+**从 JavaScript 到 TypeScript**
+https://tasaid.com/Blog/20171011231943.html
+
+# AKKA
+
+> Links
+
+**AKKA 2.3.6 Scala 文档**
+https://doc.yonyoucloud.com/doc/akka-doc-cn/2.3.6/scala/book/index.html
+
+**Scala Web 开发——基于Akka HTTP**
+http://www.yangbajing.me/scala-web-development/index.html
+
+> Learning
+
+**理解本真的AKKA架构风格**
+
+http://www.arccode.net/understand-the-true-AKKA-architectural-style.html
+
+# RocketMQ
+
+> Links
+
+**Apache RocketMQ**
+http://rocketmq.apache.org/
+
+>  Learning
+
+**分布式开放消息系统(RocketMQ)的原理与实践**
+https://www.jianshu.com/p/453c6e7ff81c
+
+**Rocketmq原理&最佳实践**
+https://www.jianshu.com/p/2838890f3284
+
+**RocketMQ使用及分布式事务解决思路**
+https://blog.csdn.net/d729332647/article/details/79324767
+
+# Redis
+
+> Links
+
+**scala-redis**
+https://github.com/debasishg/scala-redis
+
+> Learning
+
+**Redis 教程**
+https://www.runoob.com/redis/redis-tutorial.html
+
+# Spring Boot
+
+> Links
+
+**Spring Boot**
+https://spring.io/projects/spring-boot/
+
+# javalin
+
+> Links
+
+**javalink - A simple web framework for Java and Kotlin**
+https://javalin.io/
 
 # Flutter
 
-## Links
+> Links
 
 **Dart官网**
 https://www.dartlang.org
@@ -36,7 +120,10 @@ https://pub.dartlang.org/
 **FlutterIcon - Flutter icon font generator**
 http://fluttericon.com/
 
-## Learning
+> Learning
+
+**Dart 中文网**
+http://dart.goodev.org/
 
 **Flutter中文网**
 https://flutterchina.club/
@@ -68,15 +155,25 @@ https://juejin.im/entry/5c8216675188257e3c56a2e5
 **2亿用户背后的Flutter应用框架Fish Redux**
 https://www.jianshu.com/p/c48bddd363d4
 
-## Packages
+**网友阿韦整理的学习资料和demo**
+https://github.com/AweiLoveAndroid/Flutter-learning
+
+> **Packages**
 
 **dio**
 https://pub.dartlang.org/packages/dio
-> Dart的一个强大的Http客户端，支持拦截器、全局配置、FormData、请求取消、文件下载、超时等。
+Dart的一个强大的Http客户端，支持拦截器、全局配置、FormData、请求取消、文件下载、超时等。
 
 **bloc**
 https://felangel.github.io/bloc/#/
-> a predictable state management library for Dart.
+a predictable state management library for Dart.
+
+# iOS
+
+> Learning
+
+**RxSwift 中文文档**
+https://beeth0ven.github.io/RxSwift-Chinese-Documentation/
 
 # git
 
@@ -105,12 +202,21 @@ https://easings.net/
 
 **docsify**
 https://docsify.js.org/#/
-> A magical documentation site generator.
+A magical documentation site generator.
 
 # 商业平台
 
 **BugTags**
-> 移动时代Bug 管理系统
 https://www.bugtags.com/
+移动时代Bug 管理系统
 
+**蓝湖**
+https://lanhuapp.com
 
+**小豹API网关**
+http://www.xbgateway.com/
+
+# 其他文章
+
+**RESTful API 最佳实践**
+http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html
