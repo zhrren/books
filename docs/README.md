@@ -54,6 +54,14 @@ http://www.yangbajing.me/scala-web-development/index.html
 
 http://www.arccode.net/understand-the-true-AKKA-architectural-style.html
 
+# Scala
+
+> Learning
+
+**Slick 中文教程**
+
+https://www.ctolib.com/docs-slick-guide-c-index.html
+
 # RocketMQ
 
 > Links
@@ -90,6 +98,22 @@ https://www.runoob.com/redis/redis-tutorial.html
 
 **Spring Boot**
 https://spring.io/projects/spring-boot/
+
+**Spring Data JPA - Reference Documentation**
+
+https://docs.spring.io/spring-data/jpa/docs/2.1.10.RELEASE/reference/html/
+
+**Spring Data JPA 参考指南 中文版**
+
+https://ityouknow.gitbooks.io/spring-data-jpa-reference-documentation/content/
+
+# Spring Cloud
+
+> Links
+
+**Spring Cloud 从入门到精通**
+
+http://blog.didispace.com/spring-cloud-learning/
 
 # javalin
 
@@ -158,6 +182,11 @@ https://www.jianshu.com/p/c48bddd363d4
 **网友阿韦整理的学习资料和demo**
 https://github.com/AweiLoveAndroid/Flutter-learning
 
+**日更的FlutterDemo合集**
+https://github.com/OpenFlutter/Flutter-Notebook
+
+
+
 > **Packages**
 
 **dio**
@@ -174,6 +203,9 @@ a predictable state management library for Dart.
 
 **RxSwift 中文文档**
 https://beeth0ven.github.io/RxSwift-Chinese-Documentation/
+
+**The SwiftUI Lab**
+https://swiftui-lab.com/
 
 # git
 
